@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Guilherme%20Lima&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Guilherme%20Lima&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20&%20ADS%20Student&descSize=16&descAlignY=58" width="100%" />
 </div>
 
 <div align="center">
@@ -10,7 +10,13 @@
 
 ## 💻 Sobre Mim
 
-Olá! Me chamo **Guilherme Lima**, sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, atuo na **Plugify Tecnologia**, construindo soluções eficientes e escaláveis. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e entregar códigos limpos e funcionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas no **Instituto Federal de São Paulo (IFSP)** e alguém que realmente ama ciência e tecnologia. Adoro o desafio de pegar um problema complexo e transformá-lo em uma solução eficiente.
+
+Minha trajetória começou com o curso técnico em Informática no **Instituto Futuro Brasileiro**, onde construí bases sólidas em TI, sistemas operacionais, desenvolvimento web (HTML, CSS e JavaScript), além de lógica de programação com Java e Python. Também tive contato prático com ferramentas de design e forte ênfase no Pacote Office.
+
+Atualmente, atuo na **Plugify Tecnologia**, onde desenvolvo habilidades em organização de processos, gestão de informações em sistemas como SAP e Jira, análise de dados e comunicação corporativa, aprimorando minha responsabilidade, proatividade e trabalho em equipe. 
+
+Estou sempre em busca de novas oportunidades para aprender, colaborar em projetos de tecnologia, desenvolvimento de software e inovação digital.
 
 ---
 
@@ -30,7 +36,7 @@ Olá! Me chamo **Guilherme Lima**, sou apaixonado por tecnologia e desenvolvimen
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### **Banco de Dados & Cloud / Ferramentas**
+### **Banco de Dados, Cloud & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
