@@ -10,11 +10,11 @@
 
 ## 💻 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no **Instituto Federal de São Paulo (IFSP)** e alguém que realmente ama ciência e tecnologia. Adoro o desafio de pegar um problema complexo e transformá-lo em uma solução eficiente.
+Sou estudante de Análise e Desenvolvimento de Sistemas no **Instituto Federal de São Paulo (IFSP)** e alguém que realmente ama ciência e tecnologia. Adoro o desafio de pegar num problema complexo e transformá-lo numa solução eficiente.
 
-Minha trajetória começou com o curso técnico em Informática no **Instituto Futuro Brasileiro**, onde construí bases sólidas em TI, sistemas operacionais, desenvolvimento web (HTML, CSS e JavaScript), além de lógica de programação com Java e Python. Também tive contato prático com ferramentas de design e forte ênfase no Pacote Office.
+A minha trajetória começou com o curso técnico em Informática no **Instituto Futuro Brasileiro**, onde construí bases sólidas em TI, sistemas operativos, desenvolvimento web (HTML, CSS e JavaScript), além de lógica de programação com Java e Python. Também tive contacto prático com ferramentas de design e forte ênfase no Pacote Office.
 
-Atualmente, atuo na **Plugify Tecnologia**, onde desenvolvo habilidades em organização de processos, gestão de informações em sistemas como SAP e Jira, análise de dados e comunicação corporativa, aprimorando minha responsabilidade, proatividade e trabalho em equipe. 
+Atualmente, atuo na **Plugify Tecnologia**, onde desenvolvo competências em organização de processos, gestão de informação em sistemas como SAP e Jira, análise de dados e comunicação corporativa, aprimorando a minha responsabilidade, proatividade e trabalho em equipa. 
 
 Estou sempre em busca de novas oportunidades para aprender, colaborar em projetos de tecnologia, desenvolvimento de software e inovação digital.
 
@@ -36,7 +36,7 @@ Estou sempre em busca de novas oportunidades para aprender, colaborar em projeto
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### **Banco de Dados, Cloud & Ferramentas**
+### **Bases de Dados, Cloud & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -55,25 +55,25 @@ Estou sempre em busca de novas oportunidades para aprender, colaborar em projeto
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lhermelima1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Guil-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhermelima1805&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhermelima1805&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guil-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhermelima1805&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guil-Dev&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lhermelima1805&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Guil-Dev&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -82,15 +82,15 @@ Estou sempre em busca de novas oportunidades para aprender, colaborar em projeto
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhermelima1805/lhermelima1805/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhermelima1805/lhermelima1805/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhermelima1805/lhermelima1805/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Ligue-se a Mim
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gl18" target="_blank">
