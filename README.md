@@ -78,7 +78,7 @@ Estou sempre em busca de novas oportunidades para aprender, colaborar em projeto
 
 ---
 
-## 🐍 Animação da Cobrinha
+## 🐍 Contribuições
 
 <div align="center">
   <picture>
