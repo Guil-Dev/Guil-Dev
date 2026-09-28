@@ -90,7 +90,7 @@ Estou sempre em busca de novas oportunidades para aprender, colaborar em projeto
 
 ---
 
-## 🌐 Ligue-se a Mim
+## 🌐 Contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gl18" target="_blank">
