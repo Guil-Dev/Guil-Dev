@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=b500ff¢er=false&vCenter=true&width=350&lines=Python+%7C+Java+%7C+C;JavaScript+%7C+TypeScript;Azure+%7C+SAP+%7C+Jira;SQL+%7C+MySQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=b500ff¢er=true&vCenter=true&width=620&lines=Python+%7C+Java+%7C+C+%7C+JavaScript+%7C+TypeScript;SQL+%7C+MySQL+%7C+Azure+%7C+SAP+%7C+Jira+%7C+Git+%7C+GitHub" alt="Typing Animation" />
 </div>
 
 ---
@@ -40,51 +40,4 @@ Atualmente, atuo na **Plugify Tecnologia**, aplicando competências em otimizaç
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAACC?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guil-Dev&theme=tokyonight&hide_border=true" />
-  </p>
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guil-Dev/Guil-Dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🌐 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gl18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lhermelima1805@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:250d30,25:501669,50:7813a2,75:980ed1,100:b500ff&height=140§ion=footer&text=Transformando%20ideias%20em%20solu%C3%A7%C3%B5es%20%F0%9F%9A%80&fontSize=18&fontColor=ffffff&fontAlignY=40" width="100%" />
-</div>
+  <img src="
