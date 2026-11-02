@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220§ion=header&text=Guilherme%20Lima&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ADS%20Student&descSize=16&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=2b0056,6a0ded,9b5de5&height=230§ion=header&text=Guilherme%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=72" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9400D3¢er=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+C+%7C+C%23;JavaScript+%7C+TypeScript;Azure+%7C+SAP+%7C+Jira;SQL+%7C+MySQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7¢er=true&vCenter=true&width=550&lines=Python+%7C+Java+%7C+C+%7C+C%23;JavaScript+%7C+TypeScript;Azure+%7C+SAP+%7C+Jira;SQL+%7C+MySQL" alt="Typing Animation" />
 </div>
 
 ---
 
 ## 💻 Sobre Mim
 
-Desenvolvedor de Software e estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)**. Sou movido pela curiosidade tecnológica e pelo desafio de transformar problemas complexos em soluções de software eficientes, escaláveis e bem estruturadas.
+Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)**. Sou movido pela curiosidade tecnológica e pelo desafio de transformar problemas complexos em soluções de software eficientes, escaláveis e bem estruturadas.
 
 Minha jornada na tecnologia teve início com o curso técnico em Informática no **Instituto Futuro Brasileiro**, onde consolidei fundamentos sólidos em arquitetura de computadores, redes, desenvolvimento web (**HTML, CSS, JavaScript**) e lógica de programação orientada a objetos com **Java** e **Python**.
 
@@ -55,10 +55,6 @@ Atualmente, atuo na **Plugify Tecnologia**, aplicando competências em otimizaç
 
 <div align="center">
   <p align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guil-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil-Dev&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guil-Dev&theme=tokyonight&hide_border=true" />
   </p>
 </div>
@@ -91,5 +87,5 @@ Atualmente, atuo na **Plugify Tecnologia**, aplicando competências em otimizaç
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100§ion=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=2b0056,6a0ded,9b5de5&height=120§ion=footer&text=Feito%20com%20%F0%9F%92%9C%20por%20Guilherme%20Lima&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" />
 </div>
