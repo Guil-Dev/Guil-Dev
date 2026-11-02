@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=2b0056,6a0ded,9b5de5&height=230§ion=header&text=Guilherme%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=230§ion=header&text=Guilherme%20Lima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=72" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7¢er=true&vCenter=true&width=550&lines=Python+%7C+Java+%7C+C+%7C+C%23;JavaScript+%7C+TypeScript;Azure+%7C+SAP+%7C+Jira;SQL+%7C+MySQL" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2¢er=true&vCenter=true&width=550&lines=Python+%7C+Java+%7C+C;JavaScript+%7C+TypeScript;Azure+%7C+SAP+%7C+Jira;SQL+%7C+MySQL" alt="Typing Animation" />
 </div>
 
 ---
@@ -29,7 +29,6 @@ Atualmente, atuo na **Plugify Tecnologia**, aplicando competências em otimizaç
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -87,5 +86,5 @@ Atualmente, atuo na **Plugify Tecnologia**, aplicando competências em otimizaç
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=2b0056,6a0ded,9b5de5&height=120§ion=footer&text=Feito%20com%20%F0%9F%92%9C%20por%20Guilherme%20Lima&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=110§ion=footer&text=Transformando%20ideias%20em%20solu%C3%A7%C3%B5es%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontAlignY=68" width="100%" />
 </div>
