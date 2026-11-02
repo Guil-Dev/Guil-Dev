@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7813A2¢er=false&vCenter=true&width=310&lines=Python+%7C+Java+%7C+C;JavaScript+%7C+TypeScript+%7C+HTML5;SQL+%7C+MySQL+%7C+Azure;SAP+%7C+Jira+%7C+Git" alt="Typing Animation" />
 </div>
 
+---
+
 ## 💻 Sobre Mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)**. Sou movido pela curiosidade tecnológica e pelo desafio de transformar problemas complexos em soluções de software eficientes, escaláveis e bem estruturadas.
